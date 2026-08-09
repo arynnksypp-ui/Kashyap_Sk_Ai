@@ -1,0 +1,6 @@
+{
+  "name": "Kashyap_Sk_Ai",
+  "description": "Character.ai style chat app with Kashyap_Sk_Ai - Multi-Subject AI Teacher",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
